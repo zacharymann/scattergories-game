@@ -1,0 +1,15 @@
+.App {
+  width: 95vw;
+  height: 95vh;
+  margin: auto;
+  display: flex;
+  border: 2px solid black;
+}
+
+.App-Section-One {
+  width: 30%;
+}
+
+.App-Section-Two {
+  width: 70%;
+}
